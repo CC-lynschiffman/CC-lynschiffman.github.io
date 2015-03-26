@@ -1,2 +1,2 @@
 # CC-lynschiffman.github.io
-This is a page about me and what I'm working on. 
+A list of tools and resources I personally use for all things work related.
